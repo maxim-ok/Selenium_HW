@@ -20,6 +20,7 @@ dependencies {
     // testImplementation 'com.codeborne:selenide:5.19.0'
     // https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
     testImplementation 'org.seleniumhq.selenium:selenium-java:3.141.59'
+    testImplementation("io.github.bonigarcia:webdrivermanager:5.3.1")
 
 }
 
